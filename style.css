@@ -1,0 +1,262 @@
+body {
+    background-color: #F9F9F9;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 1rem;
+    color: #838383;
+}
+
+h3 {
+    color: #838383;
+    font-weight: 300;
+    font-size: 00.875rem;
+}
+
+.hiring {
+    color: #23221F;
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+.nav-item {
+    padding: 0 20px;
+    font-size: 0.75rem;
+}
+
+.navigation-bar {
+    background-color: #ffffff;
+}
+
+.slogan-tag {
+    font-family: 'Shadows Into Light', cursive;
+    color: #939393;
+    font-size: 1.25rem;
+    letter-spacing: .3rem;
+}
+
+.details-page {
+    background-color: #23221F;
+}
+
+.about-page {
+    background-color: #E2E2E2;
+}
+
+.work-page {
+    background-color: #F9F9F9;
+}
+
+.contact-page {
+    background-color: #F1F1F1;
+}
+
+.sneek-page {
+    background-color: #c6d7eb;
+}
+
+.contact-box {
+    background-color: #f2ece2;
+
+}
+
+footer {
+    background-color: #F9F9F9;
+}
+
+.title-tag {
+    font-family: 'Jolly Lodger', cursive;
+    color: #F5F5F5;
+    font-size: 4rem;
+    letter-spacing: .2rem;
+}
+
+.about-tag {
+    font-family: 'Shadows Into Light', cursive;
+    color: #23221F;
+    font-size: 3.375rem;
+    letter-spacing: 1.5rem;
+}
+
+.gallery-tag {
+    font-family: 'Shadows Into Light', cursive;
+    color: #23221F;
+    font-size: 3.375rem;
+    letter-spacing: 1.2rem;
+}
+
+.contact-tag {
+    font-family: 'Shadows Into Light', cursive;
+    color: #23221F;
+    font-size: 3.2rem;
+    letter-spacing: 1.1rem;
+}
+
+.work-tag {
+    font-family: 'Shadows Into Light', cursive;
+    color: #939393;
+    font-size: 3.375rem;
+    letter-spacing: 1.5rem;
+}
+
+.keep-tag {
+    font-family: 'Shadows Into Light', cursive;
+    color: #C5D0D0;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+}
+
+.sign-tag {
+    font-family: 'Montserrat', sans-serif;
+    color: #939393;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.sneek-tag {
+    font-family: 'Shadows Into Light', cursive;
+    color: #ffffff;
+    font-size: 1.875rem;
+    letter-spacing: 0.5rem;
+}
+
+.shutter {
+    color: #23221F;
+}
+
+.work-stuff {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0 50px;
+    font-size: 1.25rem;
+    line-height: 2rem;
+    opacity: 80%;
+}
+
+.sign-sheet {
+    background-color: #23221F;
+}
+
+.fa-solid {
+    color: white;
+    font-size: 3rem;
+    
+}
+
+.founder-text {
+    font-size: 1rem;
+    line-height: 1.75rem;
+    color: #838383;
+}
+
+.santha {
+    text-align: center;
+}
+
+.card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #939393;
+    font-size: 1.25rem;
+}
+
+.card-body {
+    background-color: #F5F5F5;
+    border-style: none;
+}
+
+.bg-col {
+    background-color: #E2E2E2;
+}
+
+.my-button {
+    background-color: #23221F;
+    color: white;
+    width: 150px;
+    padding: 1rem 2rem;
+
+}
+
+.my-button:hover {
+    background-color: #ffffff;
+    color: #23221F;
+    transition-duration: .5s;
+
+}
+
+.my-peek-button {
+    background-color: #23221F;
+    text-decoration: none;
+    color: white;
+    width: 250px;
+    padding: 0.8rem 2rem;
+    border-style: none;
+
+}
+
+.my-peek-button:hover {
+    background-color: #ffffff;
+    color: #23221F;
+    transition-duration: .5s;
+
+}
+
+.my-video-button {
+    background-color: #c6d7eb;
+    text-decoration: none;
+    color: white;
+    width: 250px;
+    padding: 0.8rem 2rem;
+    border-style: none;
+
+}
+
+.my-video-button:hover {
+    background-color: #ffffff;
+    color: #23221F;
+    transition-duration: .5s;
+
+}
+
+.my-nav-link ,.fab {
+    text-decoration: none;
+    color: #838383;
+    font-size: 0.875rem;
+}
+
+.my-nav-link:hover ,.fab:hover{
+   color: #ed2939;
+   transition-duration: .4s;
+}
+
+.fab {
+    font-size: 1.25rem;
+}
+
+.form-control {
+    border-style: none;
+    border-radius: 0;
+}
+
+.form-label {
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.date-finder button {
+    background-color: rgb(28, 28, 28);
+    padding: 16px 30px;
+    color: white;
+}
+
+.date-finder button:hover {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(29, 29, 29);
+    transition-duration: .5s;
+    color: rgb(37, 37, 37);
+}
+
+.date {
+    font-size: 1.6rem;
+}
