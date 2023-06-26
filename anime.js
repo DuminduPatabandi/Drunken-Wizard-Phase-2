@@ -1,6 +1,7 @@
 amp = 0;
 speed = 4;
 
+
 function setPath(a,b,c){ 
   var str = "M0,50 L0,0 L200,0 L200,50 ";
   for (var i=0; i<50; i++){
